@@ -1,6 +1,6 @@
 # AlShams-Motel
 Software Engineering - Semester 4 project with Dr Ayman Ezzat
-Project: Motel Management System
+- Project: Motel Management System
 
 # Group:
 - Hala Sedki
